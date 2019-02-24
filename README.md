@@ -16,7 +16,6 @@ art: benmhenry@gmail.com
 
 ### Todo
 
-- add Interface.png
 - add a few more slimes
 - add free items etc to free
 - obelisk sync random?
