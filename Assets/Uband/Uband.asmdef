@@ -1,0 +1,16 @@
+{
+    "name": "Uband",
+    "references": [
+        "GUID:412e56c90b13edd4a834b7d07919ba88",
+        "GUID:4fd4dc604e00ca226814e1f0f15a26a6"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
